@@ -2,7 +2,7 @@
 
 This repository tracks my journey through NeetCode / LeetCode type problems using **C#**, focusing on understanding and solving the problem first then working on optimal time & space complexity and clean code syntax.
 
-Automatically synced via [NeetCode](https://neetcode.io/).
+Automatically synced via [NeetCode](https://neetcode.io/practice/practice/neetcode150).
 
 ---
 
